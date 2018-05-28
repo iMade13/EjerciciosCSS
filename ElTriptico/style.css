@@ -1,64 +1,72 @@
-#container {
-    height: 77vh;
-    width: 154vh;
-    background-color: white;
-    border: solid 1px;
-}
-
-#title {
-    text-align: center;
-    margin: 0;
-    border-bottom: solid 1px;
-    background-color: #FFCA33
-}
-
-h4 {
-    font-size: 1.2em;
-    text-align: center;
-}
-
-p {
-    text-align: justify
-}
-
-#box-2 {
-    width: 51vh;
-    height: 74vh;
-    border-right: solid 1px;
-    float: left;
-}
-
-#title-box-2 {
-    float: right;
-    width: 51vh;
-}
-
-#box-3 {
-    width: 51vh;
-    height: 74vh;
-    border-right: solid 1px;
-    float: left;
-}
-
-#title-box-3 {
-    float: right;
-    width: 51vh;
-}
-
-#parrafo-dos {
-    margin: 0;
-}
-
-#box-4 {
-    width: 51.5vh;
-    height: 74vh;
-    float: left;
-}
-
-footer {
-    text-align: center;
-    background-color: #FFCA33;
-    width: 154vh;
-    height: 3vh;
-    border: 1px solid black;
-}
+    #container {
+        height: 77vh;
+        width: 154vh;
+        background-color: white;
+        border: solid 1px;
+    }
+    
+    #title {
+        text-align: center;
+        margin: 0;
+        border-bottom: solid 1px;
+        background-color: #FFCA33;
+        font-size: 1.3em;
+    }
+    
+    h4 {
+        font-size: 1.2em;
+        text-align: center;
+    }
+    
+    p {
+        text-align: justify
+    }
+    
+    #box-2 {
+        width: 51vh;
+        height: 74vh;
+        border-right: solid 1px;
+        float: left;
+    }
+    
+    #title-box-2 {
+        float: right;
+        width: 51vh;
+    }
+    
+    #box-3 {
+        width: 51vh;
+        height: 73vh;
+        border-right: solid 1px;
+        float: left;
+    }
+    
+    #title-box-3 {
+        float: right;
+        width: 51vh;
+    }
+    
+    .parrafos {
+        width: 40vh;
+        position: relative;
+        margin-left: 35px;
+    }
+    
+    #box-4 {
+        width: 51.5vh;
+        height: 73vh;
+        float: left;
+    }
+    
+    footer {
+        background-color: #FFCA33;
+        width: 154vh;
+        height: 3vh;
+        border: 1px solid black;
+    }
+    
+    img {
+        width: 45vh;
+        height: 52%;
+        margin-left: 20px;
+    }
