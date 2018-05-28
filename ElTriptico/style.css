@@ -54,3 +54,11 @@ p {
     height: 74vh;
     float: left;
 }
+
+footer {
+    text-align: center;
+    background-color: #FFCA33;
+    width: 154vh;
+    height: 3vh;
+    border: 1px solid black;
+}
