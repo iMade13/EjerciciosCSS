@@ -1,6 +1,6 @@
 #container {
     height: 77vh;
-    width: 150vh;
+    width: 154vh;
     background-color: white;
     border: solid 1px;
 }
@@ -12,40 +12,45 @@
     background-color: #FFCA33
 }
 
-#box-2 {
-    width: 50vh;
-    height: 74vh;
-    position: absolute;
-    border-right: solid 1px;
+h4 {
+    font-size: 1.2em;
+    text-align: center;
 }
 
 p {
     text-align: justify
 }
 
-#box-3 {
-    width: 100vh;
+#box-2 {
+    width: 51vh;
     height: 74vh;
-    position: absolute;
     border-right: solid 1px;
-}
-
-h4 {
-    font-size: 1.2em;
-    text-align: center;
+    float: left;
 }
 
 #title-box-2 {
-    position: relative;
     float: right;
-    width: 50vh;
+    width: 51vh;
 }
 
-#parrafo-1 {}
-
-.parrafo-2 {
-    position: relative;
+#box-3 {
+    width: 51vh;
+    height: 74vh;
+    border-right: solid 1px;
     float: left;
-    width: 50vh;
-    height: 40vh;
+}
+
+#title-box-3 {
+    float: right;
+    width: 51vh;
+}
+
+#parrafo-dos {
+    margin: 0;
+}
+
+#box-4 {
+    width: 51.5vh;
+    height: 74vh;
+    float: left;
 }
